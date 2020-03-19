@@ -1,0 +1,111 @@
+body{
+	background: #fff;
+}
+
+.dropdown {
+    font-size: 20px;
+}
+
+.nav-item {
+    color: #fff;
+}
+
+.text {
+	font-size: 20px;
+	color: #fff;
+}
+
+.text2 {
+	color: #fff;
+}
+
+.text3 {
+	color: #FF0000;
+}
+
+.login {
+    width: 700px;
+    margin: 100px auto;
+    background: #000;
+    border-radius: 5px;
+    text-align: center;
+    padding: 50px 50px 30px 50px;
+}
+
+.login h1 {
+    font: 1.3em Montserrat;
+    color: #fff;
+    font-weight: 800;
+}
+
+.login h2 {
+    font: 1.1em Montserrat;
+    color: #fff;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.login .input {
+    text-align: center;
+    background: 
+    color:  #000080;
+    border-radius: 100px;
+    border: 0;
+    margin-bottom: 10px;
+}
+
+.login button {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    background: rgb(141, 145, 137);
+    color: #fff;
+    border-radius: 100px;
+    border: 0;
+    margin-top: 10px;
+    transition: all 0.5s;
+    -webkit-transition: ;
+    -moz-transition: ;
+    -ms-transition: ;
+    -o-transition: ;
+    -webkit-border-radius: ;
+    -moz-border-radius: ;
+    -ms-border-radius: ;
+    -o-border-radius: ;
+}
+
+.login button:hover {
+    background: #1E90FF;
+}
+
+.login p {
+    margin: 30px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.parsley-required,
+.parsley-equalto {
+    color: #f00;
+    list-style: none;
+    margin: 10px 10px 10px -30px;
+}
+
+.input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-family: "Open Sans";
+    font-size: 1.1em;
+}
+
+.nome {
+    font-size: 25px;
+    color: #fff;
+    text-align: left;
+    padding-top: 20px;
+
+}
